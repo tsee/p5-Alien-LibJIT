@@ -1,4 +1,7 @@
 Revision history for {{$dist->name}}
 
 {{$NEXT}}
+- Fix dependencies
+
+0.01      2013-09-17 07:37:17 Europe/Amsterdam
 - Initial release on unsuspecting CPAN.
