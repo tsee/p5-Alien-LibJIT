@@ -1,6 +1,8 @@
 Revision history for {{$dist->name}}
 
 {{$NEXT}}
+
+0.02      2013-09-17 07:53:17 Europe/Amsterdam
 - Fix dependencies
 
 0.01      2013-09-17 07:37:17 Europe/Amsterdam
