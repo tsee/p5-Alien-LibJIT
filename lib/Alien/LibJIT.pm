@@ -9,6 +9,10 @@ use File::Spec;
 
 # VERSION
 
+=head1 NAME
+
+  Alien::LibJIT - install a copy of libjit for use from XS modules
+
 =head1 SYNOPSIS
 
   use Alien::LibJIT;
